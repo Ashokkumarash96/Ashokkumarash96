@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashokkumarash96
+- 👋 Hi, I’m Ashok kumar.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate
 
