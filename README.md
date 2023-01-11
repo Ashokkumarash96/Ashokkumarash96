@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ashok kumar.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning about Web Developer.
-💞️ I’m looking to collaborate on Web Deverloper in various fields.
-📫 How to reach me: ashokkumarash96@gmail.com
+- 💞️ I’m looking to collaborate on Web Deverloper in various fields.
+- 📫 How to reach me: ashokkumarash96@gmail.com
 
 <!---
 Ashokkumarash96/Ashokkumarash96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
