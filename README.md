@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashok kumar.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning about Web Developer.
+- 🌱 I’m currently learning about Web Developing.
 - 💞️ I’m looking to collaborate on Web Deverloper in various fields.
 - 📫 How to reach me: ashokkumarash96@gmail.com
 
