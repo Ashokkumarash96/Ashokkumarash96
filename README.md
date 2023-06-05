@@ -17,7 +17,7 @@
 
 ## 🔭 I'm currently working on
 
-- My old projects
+- My New projects
 - My CSS skill
 
 
@@ -28,7 +28,11 @@
 
 
 ## 💼 Technical Skills 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=764ABC) ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=Express&color=764ABC) ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node&color=764ABC) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+- <h4>HTML</h4>
+- <h4>CSS</h4>
+- <h4>JavaSript</h4>
+- <h4>React JS</h4>
+
 
 
                                                                                                                                          
